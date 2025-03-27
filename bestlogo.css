@@ -1,0 +1,115 @@
+.main {
+    width: 400px;
+    height: 430px;
+    background-color: azure;
+    border: 1px solid;
+    position: relative;
+    left: 300px;
+    top: 0px;
+    background-color: blue;
+
+}
+
+.log {
+    width: 200px;
+    height: 150px;
+    background-image: url(sky.jpg);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    .m {
+        color: rgb(128, 165, 42);
+        padding: 9px;
+    }
+
+    .n {
+        color: white;
+        padding: 7px;
+
+    }
+}
+
+.k1 {
+    width: 200px;
+    height: 150px;
+    background-image: url(image.jpg);
+    position: absolute;
+    top: 0px;
+    left: 200px;
+
+    .f {
+        color: white;
+        padding: 6px;
+    }
+
+    .f1 {
+        color: orange;
+        padding: 6px;
+    }
+}
+
+.k2 {
+    width: 200px;
+    height: 150px;
+    background-image: url(best.jpg);
+    position: absolute;
+    top: 155px;
+    left: 0px;
+
+    .f3 {
+        color: white;
+        padding: 5px;
+    }
+
+    .f4 {
+        color: coral;
+        padding: 8px;
+    }
+}
+
+.k3 {
+    width: 200px;
+    height: 150px;
+    background-image: url(roseful.jpg);
+    position: absolute;
+    top: 155px;
+    left: 200px;
+
+    .f3 {
+        color: greenyellow;
+        padding: 7px;
+    }
+
+    .f4 {
+        color: coral;
+    }
+}
+
+.k4 {
+    width: 200px;
+    height: 150px;
+    background-image: url(down.jpg);
+    position: absolute;
+    top: 310px;
+    left: 0px;
+
+    .f4 {
+        color: red;
+    }
+
+    .f5 {
+        color: greenyellow;
+        padding: 7px;
+    }
+}
+
+.k5 {
+    width: 200px;
+    height: 150px;
+    background-image: url(jnnah.jpeg);
+    color: #000000;
+    position: absolute;
+    top: 310px;
+    right: 0px;
+}
